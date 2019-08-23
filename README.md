@@ -146,3 +146,4 @@ _August 2010 - July 2016_
 - Version 1 of the website. (Laravel, Connecting to yesheis API, jquery, Bootstrap)
 - Content video aggreation.
 - Social integration. (Twitter, facebook, baidu, weibo)
+# ocr
