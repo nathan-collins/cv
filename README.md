@@ -38,7 +38,7 @@ Technical Lead
 _August 2018 - August 2019_
 
 - Asset management system initially designed for vending machines, with the design to make it available for all unattended assets.
-- Progressive web application. (Polymer, Firebase, Firestore, Mysql migration)
+- Progressive web application. (NodeJS, Polymer, Firebase, Firestore, Mysql migration)
 - Extremely complex application to allow for a worldwide of scenarios.
 - Startup application designed to scale but to also develop quickly.
 - Event driven system with 7 different log environemnt. (Firestore moved to Big query)
