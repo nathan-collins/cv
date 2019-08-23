@@ -119,7 +119,7 @@ _August 2010 - July 2016_
 - Version 1 of the website. (Drupal, mysql)
 - Version 2 of the website. (Laravel, API driven)
 - Statistics storage, retrieval and synchronisation. (Mysql, Couchbase)
-- Social integration and authentication. (Disqus, )
+- Social integration and authentication. (Disqus)
 - Internationalization - We supplied a service for 13 different countries. (Drupal, Laravel, Jquery, SCSS)
 - Scaling for 80,000 users a second. (Varnish, Caching, Load Balancing, Minification)
 - Continuos integration. (Team city, Ansible)
