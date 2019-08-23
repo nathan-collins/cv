@@ -19,6 +19,7 @@
 - Code review - Software quality assurance, maintainability.
 - Repositories - github, gitlab, bitbucket.
 - Code editors - vs code, intellij, php storm, web storm. (many others but a bit out of touch)
+- Standards - Coding standards and testing implementation (UI, unit and integration)
 
 # Tools
 
@@ -41,17 +42,39 @@ _August 2018 - August 2019_
 - Extremely complex application to allow for a worldwide of scenarios.
 - Startup application designed to scale but to also develop quickly.
 - Event driven system with 7 different log environemnt. (Firestore moved to Big query)
+- Coding standards, documentation and testing implementation (UI, unit and integration)
+- Code review procedure
+- Staff training
 
-## MyCtars, Eyeonit, Maroochydore Queensland
+## Eyeonit, Maroochydore Queensland
 
-Frontend Devleloper
+_January 2017 - August 2018_
+
+- Coding standards, documentation and testing implementation (UI, unit and integration)
+- Code review procedure
+- Staff training
+- Hiring a frontend team
+
+### MyCtars
+
+Frontend Developer
 _November 2017 - December 2017_
 
 - Health NDIS startup app designed to help a person manage their NDIS account for ctars.
 - Desktop and mobile application. (React, API integration, PWA, Accessibility integration, Flexbox)
 - Greenfields app that integrated with existing client database through an api. (.net & NodeJS)
 
-## Audit Portal, Eyeonit, Maroochdore Queensland
+### Mobile & Desktop app personalised dashboard prototype
+
+Software engineer
+_October 2017 - November 2017_
+
+- A mobile app designed to showcase our AgentQ product in a mobile phone or a desktop environment, the app was personalised for each user when they received a call through the TIPT service.
+- Develop a desktop environment that can be used in Windows, Linux and Apple. (Electron, PWA, Polymer, CSS, API, Node, ES6)
+- Develop a mobile environment that can be used on many devices. (Cordova, PWA, Polymer, CSS, API)
+- Live interactive charts so a managers could view changes on a call quickly. (Google charts)
+
+### Audit Portal
 
 Frontend Developer (Software engineer)
 _January 2017 - August 2018_
@@ -62,17 +85,7 @@ _January 2017 - August 2018_
 - Easily customisable.
 - Connection to API (.net)
 
-## Mobile & Desktop app personalised dashboard prototype, Eyeonit, Maroochydore
-
-Software engineer
-_November 2017 - December 2017_
-
-- A mobile app designed to showcase our AgentQ product in a mobile phone or a desktop environment, the app was personalised for each user when they received a call through the TIPT service.
-- Develop a desktop environment that can be used in Windows, Linux and Apple. (Electron, PWA, Polymer, CSS, API, Node, ES6)
-- Develop a mobile environment that can be used on many devices. (Cordova, PWA, Polymer, CSS, API)
-- Live interactive charts so a managers could view changes on a call quickly. (Google charts)
-
-## Profiling application - University of Southern Queensland (Contracted position)
+### Profiling application - University of Southern Queensland (Contracted position)
 
 Frontend developer
 _December 2016_
