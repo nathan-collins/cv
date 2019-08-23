@@ -85,7 +85,7 @@ _January 2017 - August 2018_
 - Easily customisable.
 - Connection to API (.net)
 
-### Profiling application - University of Southern Queensland (Contracted position)
+## Profiling application - University of Southern Queensland (Contracted position)
 
 Frontend developer
 _December 2016_
