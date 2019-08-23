@@ -1,3 +1,6 @@
+> [crossfields.tech@gmail.com](mailto:crossfields.tech@gmail.com) |
+> [+61410009778](tel:+61410009778)
+
 # Nathan Collins - Senior Full Stack Developer
 
 - 15+ years experience as a software engineer in various industries
