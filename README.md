@@ -11,8 +11,7 @@
 - Methodology - Agile, Scrum, Cross-platform development
 * Code review - Software quality assurance, maintainability
 * Repositories - github, gitlab, bitbucket
-* Code editors - vs code, intellij, code storm, web storm (many others but a bit out of touch)
-* 
+* Code editors - vs code, intellij, php storm, web storm (many others but a bit out of touch)
 
 # Tools
 
@@ -27,14 +26,29 @@
 
 # Projects
 
-## Aroma
-* Asset management system initially designed for vending machines, with the design to make it available for all unattended assets. 
+## Aroma, Noosa, Queensland
+Technical Lead
+August 2018 - August 2019
 
-## MyCtars
+* Asset management system initially designed for vending machines, with the design to make it available for all unattended assets. 
+** Developer an asset mangement application
+
+## MyCtars, Maroochydore Queensland
+Frontend Devleloper
+
+
 * Health NDIS startup app designed to help a person manage their NDIS account with ctars
 
-## Audit Portal
-- Audit management portal designed to help telstra maintain audit  procedures
+## Audit Portal, Eyeonit, Maroochdore Queensland
+Frontend Developer
+
+
+- Audit management portal designed to help telstra maintain audit  procedures.
 
 ## Mobile & Desktop app personalised dashboard prototype
+Desktop Client and Mobile Client
+
 * A mobile app designed to showcase our AgentQ product in a mobile phone or a desktop environment, the app was personalised for each user when they received a call through the TIPT service.
+* Develop a desktop environment that can be used in Windows, Linux and Apple (Electron, PWA, Polymer, CSS, API, Node, ES6)
+* Develop a mobile environment that can be used on many devices (Cordova, PWA, Polymer, CSS, API)
+* Live interactive charts so a managers could view changes on a call quickly. (Google charts)
