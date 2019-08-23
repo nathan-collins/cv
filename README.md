@@ -77,9 +77,8 @@ _December 2016_
 
 ## Italic Creative - NDIS application (Contracted position)
 
-Software engineer
+Frontend Developer & Testing implementation Software engineer
 _November 2016 (1 month)_
-Frontend Developer & Testing implementation
 
 - Implement tests to add confidence in the application (Chai, mocha, sinai)
 - Integrate Continuos integration the repository (pipelines, github)
@@ -107,6 +106,7 @@ _August 2010 - July 2016_
 - Local environments to match live server environments (Ansible)
 - Content aggregation for many different countries.
 - Centralised translation service so any person can translate (Service since depricated)
+- Video aggregation through many different services (you tube, vimeo, youku, etc....)
 
 ## Customised statistic service
 
