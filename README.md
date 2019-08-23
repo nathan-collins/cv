@@ -77,9 +77,8 @@ _December 2016_
 
 ## Italic Creative - NDIS application (Contracted position)
 
-Software engineer
+Frontend Developer & Testing implementation Software engineer
 _November 2016 (1 month)_
-Frontend Developer & Testing implementation
 
 - Implement tests to add confidence in the application (Chai, mocha, sinai)
 - Integrate Continuos integration the repository (pipelines, github)
