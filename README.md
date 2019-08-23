@@ -1,3 +1,13 @@
+<<<<<<< Updated upstream
+=======
+> [crossfields.tech@gmail.com](mailto:crossfields.tech@gmail.com) |
+> [+61410009778](tel:+61410009778) |
+> [linkedIn](href:https://www.linkedin.com/in/nathan-collins-853416104/) |
+> [github](https://github.com/crossfields-technology) |
+> [github2](https://github.com/nathan-collins) |
+> [gitlab](https://gitlab.com/nathancollins)
+
+>>>>>>> Stashed changes
 # Nathan Collins - Senior Full Stack Developer
 
 - 15+ years experience as a software engineer in various industries.
