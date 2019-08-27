@@ -10,6 +10,10 @@
 - 15+ years experience as a software engineer in various industries.
 - Full stack skill-set with a concentration on front-end engineering in the last 5 years.
 - Become more active in the open source environment again.
+- 10+ years using linux operating systems.
+- Unix commands line experience
+
+---
 
 # Skills
 
@@ -21,6 +25,8 @@
 - Code editors - vs code, intellij, php storm, web storm. (many others but a bit out of touch)
 - Standards - Coding standards and testing implementation (UI, unit and integration)
 
+---
+
 # Tools
 
 - Framework/Libraries - ES6, ES7, Polymer, LitElement, React, Node.js, Express, PHP, Laravel, Code Igniter. Ruby, JQuery, Electron, Docker.
@@ -29,6 +35,36 @@
 - Databases - Mysql, Postgres, Firestore, Real time database, Google cloud, MongoDB, Couchbase, AWS.
 - Automation software - Webpack, Gulp, Jenkins.
 - Testing Suite - PHPUnit, Codeception, Mocha, Chai, Sinon, Selenium.
+
+---
+
+# Experience
+
+## Aroma
+
+Technical Lead
+_August 2018 - August 2019_
+
+## Eyeonit, Maroochydore Queensland
+
+_January 2017 - August 2018_
+
+## University of Southern Queensland
+
+Frontend developer (Short term contract)
+_December 2016_
+
+## Square Cloud - NDIS API implementation
+
+Software engineer (Short term contract)
+_October 2016_
+
+## CV - Yesheis
+
+Full stack Developer
+_August 2010 - July 2016_
+
+---
 
 # Projects
 
@@ -41,7 +77,7 @@ _August 2018 - August 2019_
 - Progressive web application. (NodeJS, Polymer, Firebase, Firestore, Mysql migration)
 - Extremely complex application to allow for a worldwide of scenarios.
 - Startup application designed to scale but to also develop quickly.
-- Event driven system with 7 different log environemnt. (Firestore moved to Big query)
+- Event driven system with 7 different log environment. (Firestore moved to Big query)
 - Coding standards, documentation and testing implementation (UI, unit and integration)
 - Code review procedure
 - Staff training
@@ -110,6 +146,7 @@ Software engineer
 _October 2016 (1 month)_
 
 - Implement an API for the upcoming client. (PHP, Laravel, Swagger)
+- Restful service api design
 
 ## Yesheis mobile and desktop applications
 
@@ -125,7 +162,7 @@ _August 2010 - July 2016_
 - Continuos integration. (Team city, Ansible)
 - Local environments to match live server environments. (Ansible)
 - Content aggregation for many different countries.
-- Centralised translation service so any person can translate. (Service since depricated)
+- Centralised translation service so any person can translate.
 - Video aggregation through many different services. (you tube, vimeo, youku, etc....)
 
 ## Customised statistic service
@@ -144,5 +181,5 @@ _August 2010 - July 2016_
 ## Show2.me website - Branding website for yesheis
 
 - Version 1 of the website. (Laravel, Connecting to yesheis API, jquery, Bootstrap)
-- Content video aggreation.
+- Content video aggregation.
 - Social integration. (Twitter, facebook, baidu, weibo)
