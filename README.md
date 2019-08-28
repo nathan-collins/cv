@@ -17,19 +17,19 @@
 
 # Skills
 
-- Architectural Pattern - Model View Controller, Server side rendering, Restful API design patterns, Service layer.
+- Architectural Pattern - Model View Controller, Server side rendering, Restful API design patterns, Service layer, Uni data flow.
 - Scalable Architecture - Stateless design, Load balancing, Map Reduce.
 - Methodology - Agile, Scrum, Cross-platform development.
-- Code review - Software quality assurance, maintainability.
-- Repositories - github, gitlab, bitbucket.
-- Code editors - vs code, intellij, php storm, web storm. (many others but a bit out of touch)
+- Code review - Software quality assurance, Maintainability.
+- Repositories - Github, Gitlab, Bitbucket.
+- Code editors - Vs code, Intellij, Php Storm, Web Storm. (many others but a bit out of touch)
 - Standards - Coding standards and testing implementation (UI, unit and integration)
 
 ---
 
 # Tools
 
-- Framework/Libraries - ES6, ES7, Polymer, LitElement, React, Node.js, Express, PHP, Laravel, Code Igniter. Ruby, JQuery, Electron, Docker.
+- Framework/Libraries - ES6, ES7, Polymer, LitElement, React, Node.js, Express, PHP, Laravel, Code Igniter. Ruby, jQuery, Electron, Docker.
 - CSS Framework/Libraries - Bootstrap, CSS Grid, Flexbox.
 - Environment - Firebase, Google cloud services.
 - Databases - Mysql, Postgres, Firestore, Real time database, Google cloud, MongoDB, Couchbase, AWS.
@@ -81,6 +81,7 @@ _August 2018 - August 2019_
 - Coding standards, documentation and testing implementation (UI, unit and integration)
 - Code review procedure
 - Staff training
+- Redux
 
 ## Eyeonit, Maroochydore Queensland
 
@@ -120,6 +121,7 @@ _January 2017 - August 2018_
 - Config file to generate all audit procedures.
 - Easily customisable.
 - Connection to API (.net)
+- Redux state system
 
 ## Profiling application - University of Southern Queensland (Contracted position)
 
@@ -163,11 +165,11 @@ _August 2010 - July 2016_
 - Local environments to match live server environments. (Ansible)
 - Content aggregation for many different countries.
 - Centralised translation service so any person can translate.
-- Video aggregation through many different services. (you tube, vimeo, youku, etc....)
+- Video aggregation through many different services. (You tube, Vimeo, Y0000000000000000000000000000000000000000000000000ouku, etc....)
 
 ## Customised statistic service
 
-- Version 1 (Vanilla, PHP, Mysql, Load Balancing)
+- Version 1 (Vanilla PHP, Mysql, Load Balancing)
 - Version 2 (Vanilla PHP, Couchbase, Replication)
 - Statistics storage, retrieval, synchronisation & replication
 
