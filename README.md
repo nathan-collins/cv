@@ -165,7 +165,7 @@ _August 2010 - July 2016_
 - Local environments to match live server environments. (Ansible)
 - Content aggregation for many different countries.
 - Centralised translation service so any person can translate.
-- Video aggregation through many different services. (You tube, Vimeo, Y0000000000000000000000000000000000000000000000000ouku, etc....)
+- Video aggregation through many different services. (You tube, Vimeo, Youku, etc....)
 
 ## Customised statistic service
 
