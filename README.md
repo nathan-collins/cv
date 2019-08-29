@@ -29,7 +29,7 @@
 
 # Tools
 
-- Framework/Libraries - ES6, ES7, Polymer, LitElement, React, Node.js, Express, PHP, Laravel, Code Igniter. Ruby, jQuery, Electron, Docker.
+- Framework/Libraries - ES6, ES7, Polymer, LitElement, Dart, React, Node.js, Express, PHP, Laravel, Code Igniter. Ruby, jQuery, Electron, Docker.
 - CSS Framework/Libraries - Bootstrap, CSS Grid, Flexbox.
 - Environment - Firebase, Google cloud services.
 - Databases - Mysql, Postgres, Firestore, Real time database, Google cloud, MongoDB, Couchbase, AWS.
