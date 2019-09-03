@@ -36,6 +36,16 @@
 - Automation software - Webpack, Gulp, Jenkins.
 - Testing Suite - PHPUnit, Codeception, Mocha, Chai, Sinon, Selenium.
 
+# Experience (Tools)
+
+- Javascript - 10 years
+- Polymer - 5 years (version 0.5, 1.0, 2.0 & 3.0)
+- Angular - 1.5 years (versions 1 & 2)
+- Lit - 6 months
+- NodeJS - 2.5 years (ES5, ES6, ES7, ES8) including Electron & Cordova
+- PHP - 12 years (version 3, 4, 5 & 7)
+- Dart - 6 months
+
 ---
 
 # Experience
