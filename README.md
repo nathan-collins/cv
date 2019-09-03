@@ -43,6 +43,8 @@
 - Angular - 1.5 years (versions 1 & 2)
 - Lit - 6 months
 - NodeJS - 2.5 years (ES5, ES6, ES7, ES8) including Electron & Cordova
+- React - 1 week [Learning hooks & Jest](https://github.com/nathan-collins/jumbo-code-project)
+- JQuery - 6 years
 - PHP - 12 years (version 3, 4, 5 & 7)
 - Dart - 6 months
 
