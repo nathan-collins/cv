@@ -36,17 +36,32 @@
 - Automation software - Webpack, Gulp, Jenkins.
 - Testing Suite - PHPUnit, Codeception, Mocha, Chai, Sinon, Selenium.
 
+# Experience (Tools)
+
+- Javascript - 10 years
+- Polymer - 5 years (version 0.5, 1.0, 2.0 & 3.0)
+- Angular - 1.5 years (versions 1 & 2)
+- Lit - 6 months
+- NodeJS - 2.5 years (ES5, ES6, ES7, ES8) including Electron & Cordova
+- React - 1 week [Learning hooks & Jest](https://github.com/nathan-collins/jumbo-code-project)
+- JQuery - 6 years
+- PHP - 12 years (version 3, 4, 5 & 7)
+- Dart - 6 months
+
 ---
 
 # Experience
 
-## Aroma
+## Unattended Technologies
+
+# Aroma
 
 Technical Lead
 _August 2018 - August 2019_
 
 ## Eyeonit, Maroochydore Queensland
 
+Frontend Developer
 _January 2017 - August 2018_
 
 ## University of Southern Queensland
@@ -74,6 +89,7 @@ Technical Lead
 _August 2018 - August 2019_
 
 - Asset management system initially designed for vending machines, with the design to make it available for all unattended assets.
+- Agile environment team lead with a mentor to guide and help through agile processes.
 - Progressive web application. (NodeJS, Polymer, Firebase, Firestore, Mysql migration)
 - Extremely complex application to allow for a worldwide of scenarios.
 - Startup application designed to scale but to also develop quickly.
@@ -91,8 +107,9 @@ _January 2017 - August 2018_
 - Code review procedure
 - Staff training
 - Hiring a frontend team
+- Agile environment
 
-### MyCtars
+### Eyeonit - MyCtars
 
 Frontend Developer
 _November 2017 - December 2017_
@@ -101,7 +118,7 @@ _November 2017 - December 2017_
 - Desktop and mobile application. (React, API integration, PWA, Accessibility integration, Flexbox)
 - Greenfields app that integrated with existing client database through an api. (.net & NodeJS)
 
-### Mobile & Desktop app personalised dashboard prototype
+### Eyeonit - Mobile & Desktop app personalised dashboard prototype
 
 Software engineer
 _October 2017 - November 2017_
@@ -111,7 +128,7 @@ _October 2017 - November 2017_
 - Develop a mobile environment that can be used on many devices. (Cordova, PWA, Polymer, CSS, API)
 - Live interactive charts so a managers could view changes on a call quickly. (Google charts)
 
-### Audit Portal
+### Eyeonit - Audit Portal
 
 Frontend Developer (Software engineer)
 _January 2017 - August 2018_
