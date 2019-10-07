@@ -5,6 +5,9 @@ import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
+import java.util.Arrays;
+import java.util.List;
+
 /**
  * @author Nathan Collins
  */
@@ -42,6 +45,7 @@ public class ResumeRepositoryImpl implements ResumeRepository {
    * 
    * @return
    */
+  @Override
   public List<Resume> findAll() {
     return em.createQuery("SELECT r FROM Resume r").getResultList();
   }
