@@ -14,32 +14,27 @@ import javax.ws.rs.POST;
 import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
-import javax.ejb.EJB;
-import javax.ejb.Stateless;
 
-@Stateless
 @Path("resume")
-@Produces(MediaType.APPLICATION_JSON)
-
 public class ResumeController {
-  @EJB
-  private ResumeRepository resumeBean;
+  private ResumeRepository resumeRepository;
 
   @GET
+  @Produces(MediaType.APPLICATION_JSON)
   @Path("findById/{id}")
   public Response findById(@PathParam("id") Long id) {
-    return Response.ok(resumeBean.findById(id)).build();
+    return Response.ok(resumeRepository.findById(id)).build();
   }
 
   @GET
   @Path("FindAll")
   public Response findAll() {
-    return Response.ok(resumeBean.findAll()).build();
+    return Response.ok(resumeRepository.findAll()).build();
   }
 
   @POST
   public Response save(Resume resume) {
-    resumeBean.save(resume);
+    resumeRepository.save(resume);
     return Response.accepted().build();
   }
 
