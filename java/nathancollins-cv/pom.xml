@@ -56,6 +56,11 @@
             <artifactId>jersey-common</artifactId>
             <version>2.26</version>
         </dependency>
+        <dependency>
+            <groupId>com.microsoft.sqlserver</groupId>
+            <artifactId>mssql-jdbc</artifactId>
+            <version>7.4.1.jre11</version>
+        </dependency>
     </dependencies>
     <build>
         <pluginManagement>
@@ -68,7 +73,7 @@
                         <dependency>
                             <groupId>com.puppycrawl.tools</groupId>
                             <artifactId>checkstyle</artifactId>
-                            <version>8.10</version>
+                            <version>8.18</version>
                         </dependency>
                         <dependency>
                             <groupId>com.github.ngeor</groupId>

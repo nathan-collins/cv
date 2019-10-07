@@ -1,4 +1,4 @@
-package io.nathancollins.cv.api.entities;
+package io.nathancollins.cv.api.entity;
 
 import java.io.Serializable;
 import javax.persistence.Entity;
@@ -85,7 +85,7 @@ public class Resume implements Serializable {
    * @param title
    * @return
    */
-  public String getTitle(String title) {
+  public String getTitle() {
     return title;
   }
 
