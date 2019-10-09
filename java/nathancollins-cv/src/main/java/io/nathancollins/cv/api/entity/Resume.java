@@ -15,6 +15,8 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "resume")
 public class Resume implements Serializable {
+  static final long serialVersionUID = 1L;
+
   @Id
   @GeneratedValue(strategy = GenerationType.AUTO)
   private Long id;
