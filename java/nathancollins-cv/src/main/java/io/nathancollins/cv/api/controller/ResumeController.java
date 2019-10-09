@@ -1,14 +1,11 @@
-package io.nathancollins.cv.api.service;
+package io.nathancollins.cv.api.controller;
 
-import javax.ejb.EJB;
-import javax.ejb.Stateless;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
 import io.nathancollins.cv.api.repository.ResumeRepository;
 import io.nathancollins.cv.api.entity.Resume;
 
-import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
 import javax.ws.rs.POST;
 import javax.ws.rs.Path;
@@ -27,7 +24,8 @@ public class ResumeController {
   }
 
   @GET
-  @Path("FindAll")
+  @Produces(MediaType.APPLICATION_JSON)
+  @Path("findAll")
   public Response findAll() {
     return Response.ok(resumeRepository.findAll()).build();
   }
