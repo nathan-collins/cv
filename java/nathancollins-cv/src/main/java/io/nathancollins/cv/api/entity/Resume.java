@@ -15,28 +15,25 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "resume")
 public class Resume implements Serializable {
-  private static final long serialVersionUID = 1L;
-
   @Id
   @GeneratedValue(strategy = GenerationType.AUTO)
   private Long id;
-
-  private String name, title, address, email;
-
+  private String name, surname, title, address, email;
   private Short phone;
 
   /**
    * @param id
    * @param name
+   * @param surname
+   * @param title
    * @param address
    * @param phone
    * @param email
-   * @param socials
-   * @param title
    */
-  public Resume(Long id, String name, String title, String address, Short phone, String email) {
+  public Resume(Long id, String name, String surname, String title, String address, Short phone, String email) {
     this.id = id;
     this.name = name;
+    this.surname = surname;
     this.title = title;
     this.address = address;
     this.phone = phone;
@@ -146,5 +143,51 @@ public class Resume implements Serializable {
    */
   public void setEmail(String email) {
     this.email = email;
+  }
+
+  @Override
+  public String toString() {
+    return "Resume [" + "id=" + id + ", name=" + name + ", surname=" + surname + "title=" + title + ", address="
+        + address + ", phone= " + phone + ", email=" + email + "]";
+  }
+
+  @Override
+  public int hashCode() {
+    final int prime = 31;
+    int result = 1;
+    result = prime * result + (id == null ? 0 : id.hashCode());
+    result = prime * result + (name == null ? 0 : name.hashCode());
+    result = prime * result + (surname == null ? 0 : surname.hashCode());
+    result = prime * result + (title == null ? 0 : title.hashCode());
+    result = prime * result + (address == null ? 0 : address.hashCode());
+    result = prime * result + (phone == null ? 0 : phone.hashCode());
+    result = prime * result + (email == null ? 0 : email.hashCode());
+    return result;
+  }
+
+  @Override
+  public boolean equals(Object obj) {
+    if (this == obj)
+      return true;
+    if (obj == null || getClass() != obj.getClass())
+      return false;
+
+    Resume resume = (Resume) obj;
+
+    boolean idEquals = (this.id == null && resume.id == null) || (this.id != null && this.id.equals(resume.id));
+    boolean nameEquals = (this.name == null && resume.name == null)
+        || (this.name != null && this.name.equals(resume.name));
+    boolean surnameEquals = (this.surname == null && resume.surname == null)
+        || (this.surname != null && this.surname.equals(resume.surname));
+    boolean titleEquals = (this.title == null && resume.title == null)
+        || (this.title != null && this.title.equals(resume.title));
+    boolean addressEquals = (this.address == null && resume.address == null)
+        || (this.address != null && this.address.equals(resume.address));
+    boolean phoneEquals = (this.phone == null && resume.phone == null)
+        || (this.phone != null && this.phone.equals(resume.phone));
+    boolean emailEquals = (this.email == null && resume.email == null)
+        || (this.email != null && this.email.equals(resume.email));
+
+    return idEquals && nameEquals && surnameEquals && titleEquals && addressEquals && phoneEquals && emailEquals;
   }
 }
