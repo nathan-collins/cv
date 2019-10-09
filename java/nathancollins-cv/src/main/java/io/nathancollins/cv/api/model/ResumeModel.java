@@ -1,4 +1,4 @@
-package io.nathancollins.cv.api.repository;
+package io.nathancollins.cv.api.model;
 
 import io.nathancollins.cv.api.entity.Resume;
 
@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @author Nathan Collins
  */
-public interface ResumeRepository {
+public interface ResumeModel {
   List<Resume> findAll();
 
   Resume findById(Long id);
