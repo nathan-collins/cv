@@ -1,4 +1,4 @@
-package io.nathancollins.cv.api.repository;
+package io.nathancollins.cv.api.model;
 
 import io.nathancollins.cv.api.entity.Resume;
 import java.util.List;
@@ -11,10 +11,10 @@ import java.util.List;
 /**
  * @author Nathan Collins
  */
-public class ResumeRepositoryImpl implements ResumeRepository {
+public class ResumeModelImpl implements ResumeModel {
   private EntityManager em;
 
-  public ResumeRepositoryImpl(EntityManager em) {
+  public ResumeModelImpl(EntityManager em) {
     this.em = em;
   }
 
