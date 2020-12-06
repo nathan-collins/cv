@@ -91,6 +91,8 @@ _August 2010 - July 2016_
 ## Encryption Management System, Syndney, NSW
 
 - Creation of a platform based form system to speed up development within a large company
+- Webpack
+- npm collaborative repositories
 - Agile environment
 - Platform based software using the latest technology (LitElement)
 - High level of testing tools
