@@ -55,7 +55,7 @@
 ## ING
 
 Senior Software Engineer
-_October 2019 - Present
+_October 2019 - Present_
 
 ## Unattended Technologies
 
