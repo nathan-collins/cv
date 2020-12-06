@@ -41,9 +41,9 @@
 - Javascript - 10 years
 - Polymer - 5 years (version 0.5, 1.0, 2.0 & 3.0)
 - Angular - 1.5 years (versions 1 & 2)
-- Lit - 6 months
+- Lit - 18 months
 - NodeJS - 2.5 years (ES5, ES6, ES7, ES8) including Electron & Cordova
-- React - 1 week [Learning hooks & Jest](https://github.com/nathan-collins/jumbo-code-project)
+- React - 3 week [Learning hooks & Jest](https://github.com/nathan-collins/jumbo-code-project)
 - JQuery - 6 years
 - PHP - 12 years (version 3, 4, 5 & 7)
 - Dart - 6 months
@@ -51,6 +51,11 @@
 ---
 
 # Experience
+
+## ING
+
+Senior Software Engineer
+_October 2019 - Present
 
 ## Unattended Technologies
 
@@ -82,6 +87,17 @@ _August 2010 - July 2016_
 ---
 
 # Projects
+
+## Encryption Management System, Syndney, NSW
+
+- Creation of a platform based form system to speed up development within a large company
+- Agile environment
+- Platform based software using the latest technology (LitElement)
+- High level of testing tools
+- Peer reviews
+- Staff training for LitElement
+- First in the country for the business to implement native javascript.
+- Implement standard and testing facilites, shared libraries and coding standards.
 
 ## Aroma, Noosa, Queensland
 
