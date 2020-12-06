@@ -93,6 +93,7 @@ _August 2010 - July 2016_
 - Creation of a platform based form system to speed up development within a large company
 - Webpack
 - npm collaborative repositories
+- Storybook demos
 - Agile environment
 - Platform based software using the latest technology (LitElement)
 - High level of testing tools
