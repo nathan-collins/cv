@@ -12,16 +12,17 @@
 - Become more active in the open source environment again.
 - 10+ years using linux operating systems.
 - Unix commands line experience
+- UTS Lucy Graduation mentor program.
 
 ---
 
 # Skills
 
-- Architectural Pattern - Model View Controller, Server side rendering, Restful API design patterns, Service layer, Uni data flow.
-- Scalable Architecture - Stateless design, Load balancing, Map Reduce.
-- Methodology - Agile, Scrum, Cross-platform development.
+- Architectural Pattern - Model View Controller, Restful API design patterns, Service layer, Uni data flow.
+- Scalable Architecture - Stateless design, Load balancing, Map Reduce, Domain Driven Architecture, BFF microservice data design, MIcroservice design.
+- Methodology - Advanced Agile, Scrum, Cross-platform development, Scrum master.
 - Code review - Software quality assurance, Maintainability.
-- Repositories - Github, Gitlab, Bitbucket.
+- Repositories - Github, Gitlab, Bitbucket, Team Foundation.
 - Code editors - Vs code, Intellij, Php Storm, Web Storm. (many others but a bit out of touch)
 - Standards - Coding standards and testing implementation (UI, unit and integration)
 
@@ -29,10 +30,10 @@
 
 # Tools
 
-- Framework/Libraries - ES6, ES7, Polymer, LitElement, Dart, React, Node.js, Express, PHP, Laravel, Code Igniter. Ruby, jQuery, Electron, Docker.
+- Framework/Libraries - ES6, ES7, ES8, Polymer, LitElement, Dart, React, Node.js, Express, JAVA, PHP, Laravel, Code Igniter. Ruby, jQuery, Electron, Docker.
 - CSS Framework/Libraries - Bootstrap, CSS Grid, Flexbox.
 - Environment - Firebase, Google cloud services.
-- Databases - Mysql, Postgres, Firestore, Real time database, Google cloud, MongoDB, Couchbase, AWS.
+- Databases - Mysql, Postgres, Firestore, Real time database, Google cloud, MongoDB, Couchbase, AWS, MSSQL, Kafka.
 - Automation software - Webpack, Gulp, Jenkins.
 - Testing Suite - PHPUnit, Codeception, Mocha, Chai, Sinon, Selenium.
 
@@ -41,12 +42,13 @@
 - Javascript - 10 years
 - Polymer - 5 years (version 0.5, 1.0, 2.0 & 3.0)
 - Angular - 1.5 years (versions 1 & 2)
-- Lit - 18 months
+- Lit - 3 years
 - NodeJS - 2.5 years (ES5, ES6, ES7, ES8) including Electron & Cordova
-- React - 3 week [Learning hooks & Jest](https://github.com/nathan-collins/jumbo-code-project)
+- React - 2 months
 - JQuery - 6 years
 - PHP - 12 years (version 3, 4, 5 & 7)
-- Dart - 6 months
+- Dart - 12 months
+- Java - 1 year
 
 ---
 
@@ -88,7 +90,43 @@ _August 2010 - July 2016_
 
 # Projects
 
-## Encryption Management System, Syndney, NSW
+## ING, Apply registration form, Remote work
+
+Senior Software Engineer
+_July 2021 - Present_
+
+- High priority team always under pressure
+- Strict testing process
+- Complex form structure with multiple logic variations
+- Connection to global systems
+- Working with remote team
+- Agile processes in a large team
+
+## ING, Transaction alerting system
+
+Senior Software Engineer
+_February 2021 - April 2021_
+
+- Working directly with regulators
+- Reverse engineer very old legacy data systems
+- Reverse engineer data structure
+- Minimal documentation for direction
+- Complex sql queries for investigation
+- Backfill data and reporting
+
+## ING, Document repository system, Remote work
+
+Senior Software Engineer
+_January 2021 - July 2021_
+
+- Global document repository system
+- Kafka data streams
+- Scrum master role
+
+## ING, Encryption Management System, Sydney, NSW
+
+Senior Software Engineer
+_November 2020 - January 2021
 
 - Creation of a platform based form system to speed up development within a large company
 - Webpack
@@ -100,7 +138,22 @@ _August 2010 - July 2016_
 - Peer reviews
 - Staff training for LitElement
 - First in the country for the business to implement native javascript.
-- Implement standard and testing facilites, shared libraries and coding standards.
+- Implement standard and testing standards, shared libraries and coding standards.
+
+## ING, Frontend platform
+
+Senior Software Engineer
+_October 2019 - Present_
+
+- Delivery of forms quickly for internal projects
+- Conventional commit process
+- npm version controlling
+- Continuos integration and deployment process
+- Git branching and tag management
+- Reusable component design
+- Repository inter-changeable design
+- High level documentation
+- Continued support
 
 ## Aroma, Noosa, Queensland
 
@@ -117,6 +170,7 @@ _August 2018 - August 2019_
 - Code review procedure
 - Staff training
 - Redux
+- Socket driven database
 
 ## Eyeonit, Maroochydore Queensland
 
@@ -128,7 +182,7 @@ _January 2017 - August 2018_
 - Hiring a frontend team
 - Agile environment
 
-### Eyeonit - MyCtars
+### Eyeonit, MyCtars
 
 Frontend Developer
 _November 2017 - December 2017_
